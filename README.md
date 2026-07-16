@@ -16,4 +16,4 @@ python -m pytest
 ## Contributing
 
 This repo is for practicing the PR workflow: create a branch, make a small
-change, and open a pull request agains `main`.
+change, and open a pull request against `main`.
